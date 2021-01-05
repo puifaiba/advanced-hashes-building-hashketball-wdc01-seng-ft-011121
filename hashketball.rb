@@ -35,7 +35,7 @@ game_hash = {
         :assists => 10,
         :steals => 3,
         :blocks => 1,
-        :slam_dunks => 15        
+        :slam_dunks => 15
         },
       {
         :player_name => "Mason Plumlee",
@@ -46,7 +46,7 @@ game_hash = {
         :assists => 6,
         :steals => 3,
         :blocks => 8,
-        :slam_dunks => 5        
+        :slam_dunks => 5
         },
       {
         :player_name => "Jason Terry",
@@ -57,7 +57,7 @@ game_hash = {
         :assists => 2,
         :steals => 4,
         :blocks => 11,
-        :slam_dunks => 1        
+        :slam_dunks => 1
         }]
   }
   :away {
